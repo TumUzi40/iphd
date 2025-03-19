@@ -1,14 +1,14 @@
 {
-"name": "ทีมงานพลังหนุ่ม",
+"name": "gituzi",
 "author": "ឃៀនជុកណូយ",
 "image": "http://116.204.180.87:82/img/run_ic.png",
-"url": "http://116.204.180.87:82/samuza/u3u8.txt",
+"url": "https://raw.githubusercontent.com/TumUzi40/iphd/refs/heads/main/HOME.txt",
 "groups": [
 
 {
 "name": "กด Refresh",
 "image": "http://116.204.180.87:82/IMG/Animated_Meta.gif",
-"url": "http://116.204.180.87:82/samuza/u3u8.txt",
+"url": "https://raw.githubusercontent.com/TumUzi40/iphd/refs/heads/main/HOME.txt",
 "info": "refers",
 "import": true
 },    
