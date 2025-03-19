@@ -2,13 +2,13 @@
 "name": "HD_จังบักสัง,
 "author": "ឃៀនជុកណូយ",
 "image": "http://116.204.180.87:82/img/18photo.jpg",
-"url": "https://tumuzi40.github.io/load/uzihd.txt",
+"url": "https://raw.githubusercontent.com/TumUzi40/iphd/refs/heads/main/u3home.m3u",
 "groups": [
 
 {
 "name": "กด Refresh",
 "image": "http://116.204.180.87:82/img/Updated1.png",
-"url": "https://tumuzi40.github.io/load/uzihd.txt",
+"url": "https://raw.githubusercontent.com/TumUzi40/iphd/refs/heads/main/u3home.m3u",
 "info": "refers",
 "import": true
 },
